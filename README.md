@@ -1,7 +1,7 @@
 # 養老院 Project — 後端 RESTful API（Spring Boot + Security + MS SQL）
 
 ## 0) 開發人員簡介（Team）
-此專案由我與五位同學共同開發
+此專案由我與五位同學共同開發 <br>
 會員與員工系統 : Ryan-Shiun <br>
 房型預約 : Grants <br>
 復康巴士 : Elena <br>
