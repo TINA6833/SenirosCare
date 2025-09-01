@@ -2,12 +2,12 @@
 
 ## 0) 開發人員簡介（Team）
 此專案由我與五位同學共同開發
-會員與員工系統 : 
-房型預約 : Grants
-復康巴士 : Elena
-輔具買賣 : Tina
-照服員預約 : Layfon-Shen
-活動報名 : HannahLululu
+會員與員工系統 : Ryan-Shiun <br>
+房型預約 : Grants <br>
+復康巴士 : Elena <br>
+輔具買賣 : Tina <br>
+照服員預約 : Layfon-Shen <br>
+活動報名 : HannahLululu <br>
 
 ## 1) 專案簡介（Overview）
 
